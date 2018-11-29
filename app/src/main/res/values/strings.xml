@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DatabaseKotlin</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="update_activity">Update Password</string>
+    <string name="delete">Delete</string>
+    <string name="show_all">Show All</string>
+    <string name="empty"></string>
+</resources>
