@@ -6,4 +6,4 @@
 4. Delete Record
 
 # Author
-Jignesh Patel - @jignesh8992 on GitHub, Twitter And Skype
+Jignesh N Patel - @jignesh8992 on GitHub, Twitter And Skype
