@@ -1,4 +1,4 @@
-# Basic Operation With SQLite Database
+# Basic Operations With SQLite Database
 
 1. Insert Record
 2. Get Records
