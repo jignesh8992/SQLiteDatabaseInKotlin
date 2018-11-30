@@ -213,7 +213,7 @@ class AppHelper {
          */
         fun moreApp(mContext: Context) {
             try {
-                val query = "pub:" + "Rakta Tech" // change query here
+                val query = "pub:" + "Jignesh" // change query here
                 val intent = Intent("android.intent.action.VIEW", Uri.parse("market://search?q=$query"))
                 intent.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY)
                 mContext.startActivity(intent)

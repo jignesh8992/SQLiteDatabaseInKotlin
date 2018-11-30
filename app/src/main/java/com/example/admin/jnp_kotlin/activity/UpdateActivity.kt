@@ -36,7 +36,6 @@ class UpdateActivity : Activity() {
     private fun initActions() {
         button_update.setOnClickListener {
             // checking input text should not be null
-            val username = tv_username.text.toString();
             val password = et_password.text.toString();
 
             if (validation(username, password)) {
@@ -49,7 +48,6 @@ class UpdateActivity : Activity() {
                 if (success) {
                     AppHelper.toast(this, "Record Updated Successfully")
                     onBackPressed()
-
                 } else {
                     AppHelper.toast(this, "Record not Updated")
                     onBackPressed()

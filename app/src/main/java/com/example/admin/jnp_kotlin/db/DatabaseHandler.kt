@@ -112,8 +112,8 @@ class DatabaseHandler(context: Context) : SQLiteOpenHelper(context, DB_NAME, nul
 
     fun update(data: DB_Data): Boolean {
         val db = this.writableDatabase
-        val whereClause = USERNAME + " =? "
-        val whereArgs = arrayOf(data.username)
+        val whereClause = ID + " =? "
+        val whereArgs = arrayOf(data.id)
         val values = ContentValues()
         values.put(USERNAME, data.username)
         values.put(PASSWORD, data.password)
