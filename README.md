@@ -5,11 +5,7 @@
   4. Delete Record
   
 ## Screenshot
-
-![Screenshot of Insert](https://github.com/jignesh8992/SQLiteDatabaseInKotlin/blob/master/app/src/main/assets/data/Screenshot_Insert.png)
-
-![Screenshot of Update](https://github.com/jignesh8992/SQLiteDatabaseInKotlin/blob/master/app/src/main/assets/data/Screenshot_Update.png)
- 
+<img src="https://github.com/jignesh8992/SQLiteDatabaseInKotlin/blob/master/app/src/main/assets/data/Screenshot_Insert.png" width="200"/> <img src="https://github.com/jignesh8992/SQLiteDatabaseInKotlin/blob/master/app/src/main/assets/data/Screenshot_Update.png" width="200"/>
  
 ## Download
 [Download APK from here](https://github.com/jignesh8992/SQLiteDatabaseInKotlin/blob/master/app/src/main/assets/data/SQLiteDatabaseInKotlin.apk)
