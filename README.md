@@ -12,6 +12,11 @@
 ## Demo
 [Download APK from here](https://github.com/jignesh8992/SQLiteDatabaseInKotlin/raw/master/screenshot/SQLiteDatabaseInKotlin.apk)
  
+## Contributing
+Feel free to contribute code to SQLiteDatabaseInKotlin. You can do it by forking the repository via Github and sending pull request with changes.
+
+When submitting code, please make every effort to follow existing conventions and style in order to keep the code as readable as possible. Also be sure that all tests are passing.
+
 ## Developed By
   <a href="https://github.com/jignesh8992">Jignesh N Patel</a> - <a href="mailto:jignesh8992@gmail.com">jignesh8992@gmail.com</a>
   <br>
